@@ -1,0 +1,36 @@
+{
+  "name": "ai-automated-calling",
+  "version": "1.0.0",
+  "description": "AI Automated Calling Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.4",
+    "@vapi-ai/server-sdk": "^0.1.0",
+    "axios": "^1.7.4",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "googleapis": "^144.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.16",
+    "openai": "^4.55.7",
+    "serverr": "^1.0.0",
+    "stripe": "^17.1.0",
+    "twilio": "^5.3.3"
+  },
+  "keywords": []
+}
